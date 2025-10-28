@@ -14,8 +14,8 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890abcd
 
 When starting the Admin Panel it will ask for the Websocket URL and the Secret but will automatically fill the fields with the first and second line of `~/.minecraftServerSecret` respectively.
 
-![Screenshot1](./raw/master/images/Screenshot1.png)
-![Screenshot2](./raw/master/images/Screenshot2.png)
-![Screenshot3](./raw/master/images/Screenshot3.png)
-![Screenshot4](./raw/master/images/Screenshot4.png)
-![Screenshot5](./raw/master/images/Screenshot5.png)
+![Screenshot1](./images/Screenshot1.png)
+![Screenshot2](./images/Screenshot2.png)
+![Screenshot3](./images/Screenshot3.png)
+![Screenshot4](./images/Screenshot4.png)
+![Screenshot5](./images/Screenshot5.png)
